@@ -1,0 +1,10 @@
+numpy
+matplotlib
+altair
+scipy
+vega_datasets==0.8.0
+regex==2020.6.8
+Flask
+plotly
+pyLDAvis==2.1.2
+python-dotenv
